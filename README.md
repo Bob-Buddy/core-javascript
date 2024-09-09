@@ -11,5 +11,5 @@
 2. [데이터 타입에 관한 배경지식](https://github.com/Bob-Buddy/core-javascript/blob/master/ch1/steve-shim/240903.md)
 3. [변수 선언과 데이터 할당](https://github.com/Bob-Buddy/core-javascript/blob/master/ch1/steve-shim/240903.md)
 4. [기본형 데이터와 참조형 데이터](https://github.com/Bob-Buddy/core-javascript/blob/master/ch1/steve-shim/240903.md)
-5. [불변 객체](https://github.com/Bob-Buddy/core-javascript/blob/master/ch1/tsihnavy99/240907.md)
+5. [불변 객체](https://github.com/Bob-Buddy/core-javascript/blob/master/ch1/tsihnavy99/240907.md) / [꼬리질문](https://github.com/Bob-Buddy/core-javascript/blob/master/ch1/steve-shim/240907.md)
 6. [undefined와 null](https://github.com/Bob-Buddy/core-javascript/blob/master/ch1/kimifield98/240907.md)
