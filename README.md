@@ -13,3 +13,5 @@
 4. [기본형 데이터와 참조형 데이터](https://github.com/Bob-Buddy/core-javascript/blob/master/ch1/steve-shim/240903.md)
 5. [불변 객체](https://github.com/Bob-Buddy/core-javascript/blob/master/ch1/tsihnavy99/240907.md) / [꼬리질문](https://github.com/Bob-Buddy/core-javascript/blob/master/ch1/steve-shim/240907.md)
 6. [undefined와 null](https://github.com/Bob-Buddy/core-javascript/blob/master/ch1/kimifield98/240907.md)
+
+### CHAPTER02 실행 컨텍스트
