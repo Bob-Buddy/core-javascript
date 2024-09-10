@@ -15,3 +15,8 @@
 6. [undefined와 null](https://github.com/Bob-Buddy/core-javascript/blob/master/ch1/kimifield98/240907.md)
 
 ### CHAPTER02 실행 컨텍스트
+1. 실행 컨텍스트란?
+2. VariableEnvironment
+3. LexicalEnvironment <br />
+3-1. LexicalEnvironment - environmentRecord와 호이스팅 <br />
+3-2. [LexicalEnvironment - 스코프, 스코프 체인, outerEnvironmentReference](https://github.com/Bob-Buddy/core-javascript/blob/master/ch2/kimfield98/240910.md)
