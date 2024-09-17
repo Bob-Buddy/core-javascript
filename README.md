@@ -43,6 +43,6 @@
    2-1. call 메서드<br/>
    2-2. apply 메서드<br/>
    2-3. call / apply 메서드의 활용<br/>
-   2-4. bind 메서드<br/>
-   2-5. 화살표 함수의 예외사항<br/>
-   2-6. 별도의 인자로 this를 받는 경우(콜백 함수 내에서의 this)<br/>
+   2-4. [bind 메서드](https://github.com/Bob-Buddy/core-javascript/commit/9c97d35f2b55c8e19c5e6fb1e85640b51ae7871b)<br/>
+   2-5. [화살표 함수의 예외사항](https://github.com/Bob-Buddy/core-javascript/commit/9c97d35f2b55c8e19c5e6fb1e85640b51ae7871b)<br/>
+   2-6. [별도의 인자로 this를 받는 경우(콜백 함수 내에서의 this)](https://github.com/Bob-Buddy/core-javascript/commit/9c97d35f2b55c8e19c5e6fb1e85640b51ae7871b)<br/>
