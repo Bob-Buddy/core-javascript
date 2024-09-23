@@ -50,10 +50,10 @@
 ### CHAPTER04 콜백 함수
 
 1. [콜백 함수란?](https://github.com/Bob-Buddy/core-javascript/blob/master/ch4/steve-shim/240917.md)
-2. [제어권](https://github.com/Bob-Buddy/core-javascript/blob/master/ch4/steve-shim/240917.md)
-   2-1. [호출 시점](https://github.com/Bob-Buddy/core-javascript/blob/master/ch4/steve-shim/240917.md)
-   2-2. [인자](https://github.com/Bob-Buddy/core-javascript/blob/master/ch4/steve-shim/240917.md)
-   2-3. [this](https://github.com/Bob-Buddy/core-javascript/blob/master/ch4/steve-shim/240917.md)
+2. [제어권](https://github.com/Bob-Buddy/core-javascript/blob/master/ch4/steve-shim/240917.md)<br/>
+   2-1. [호출 시점](https://github.com/Bob-Buddy/core-javascript/blob/master/ch4/steve-shim/240917.md)<br/>
+   2-2. [인자](https://github.com/Bob-Buddy/core-javascript/blob/master/ch4/steve-shim/240917.md)<br/>
+   2-3. [this](https://github.com/Bob-Buddy/core-javascript/blob/master/ch4/steve-shim/240917.md)<br/>
 3. 콜백 함수는 함수다
 4. 콜백 함수 내부의 this에 다른 값 바인딩하기
 5. [콜백 지옥과 비동기제어](https://github.com/Bob-Buddy/core-javascript/blob/master/ch4/kimfield98/240917.md)
