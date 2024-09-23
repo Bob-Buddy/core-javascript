@@ -3,12 +3,12 @@
 ## 🗓️ 기간
 
 - 9/3(화) ~ 9/28(토) <br />
-<br/>
+  <br/>
 
 ## 🍚 멤버
 
 - 김초원, 심승혁, 형예은 <br />
-<br/>
+  <br/>
 
 ## 📖 목차 [링크]
 
@@ -20,7 +20,7 @@
 4. [기본형 데이터와 참조형 데이터](https://github.com/Bob-Buddy/core-javascript/blob/master/ch1/steve-shim/240903.md)
 5. [불변 객체](https://github.com/Bob-Buddy/core-javascript/blob/master/ch1/tsihnavy99/240907.md) / [꼬리질문](https://github.com/Bob-Buddy/core-javascript/blob/master/ch1/steve-shim/240907.md)
 6. [undefined와 null](https://github.com/Bob-Buddy/core-javascript/blob/master/ch1/kimifield98/240907.md)
-<br/>
+   <br/>
 
 ### CHAPTER02 실행 컨텍스트
 
@@ -29,14 +29,14 @@
 3. [LexicalEnvironment](https://github.com/Bob-Buddy/core-javascript/blob/master/ch2/steve-shim/240910.md)<br />
    3-1. [LexicalEnvironment - environmentRecord와 호이스팅](https://github.com/Bob-Buddy/core-javascript/blob/master/ch2/tsihnavy99/240910.md) <br />
    3-2. [LexicalEnvironment - 스코프, 스코프 체인, outerEnvironmentReference](https://github.com/Bob-Buddy/core-javascript/blob/master/ch2/kimfield98/240910.md)
-<br/>
+   <br/>
 
 ### CHAPTER03 this
 
 1. 상황에 따라 달라지는 this<br/>
-   1-1. 전역 공간에서의 this<br/>
-   1-2. 메서드로서 호출할 때 그 메서드 내부에서의 this<br/>
-   1-3. 함수로서 호출할 때 그 함수 내부에서의 this<br/>
+   1-1. [전역 공간에서의 this](https://github.com/Bob-Buddy/core-javascript/blob/master/ch3/steve-shim/240917.md)<br/>
+   1-2. [메서드로서 호출할 때 그 메서드 내부에서의 this](https://github.com/Bob-Buddy/core-javascript/blob/master/ch3/steve-shim/240917.md)<br/>
+   1-3. [함수로서 호출할 때 그 함수 내부에서의 this](https://github.com/Bob-Buddy/core-javascript/blob/master/ch3/steve-shim/240917.md)<br/>
    1-4. 콜백 함수 호출 시 그 함수 내부에서의 this<br/>
    1-5. 생성자 함수 내부에서의 this<br/>
 2. 명시적으로 this를 바인딩하는 방법<br/>
@@ -49,11 +49,11 @@
 
 ### CHAPTER04 콜백 함수
 
-1. 콜백 함수란?
-2. 제어권
-  2-1. 호출 시점
-  2-2. 인자
-  2-3. this
+1. [콜백 함수란?](https://github.com/Bob-Buddy/core-javascript/blob/master/ch4/steve-shim/240917.md)
+2. [제어권](https://github.com/Bob-Buddy/core-javascript/blob/master/ch4/steve-shim/240917.md)
+   2-1. [호출 시점](https://github.com/Bob-Buddy/core-javascript/blob/master/ch4/steve-shim/240917.md)
+   2-2. [인자](https://github.com/Bob-Buddy/core-javascript/blob/master/ch4/steve-shim/240917.md)
+   2-3. [this](https://github.com/Bob-Buddy/core-javascript/blob/master/ch4/steve-shim/240917.md)
 3. 콜백 함수는 함수다
 4. 콜백 함수 내부의 this에 다른 값 바인딩하기
 5. [콜백 지옥과 비동기제어](https://github.com/Bob-Buddy/core-javascript/blob/master/ch4/kimfield98/240917.md)
