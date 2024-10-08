@@ -84,8 +84,8 @@
 2. 프로토타입 체인<br/>
    2-1. [메서드 오버라이드](https://github.com/Bob-Buddy/core-javascript/blob/master/ch6/tsihnavy99/241103.md)<br/>
    2-2. [프로토타입 체인](https://github.com/Bob-Buddy/core-javascript/blob/master/ch6/tsihnavy99/241103.md)<br/>
-   2-3. 객체 전용 메서드의 예외사항<br/>
-   2-4. 다중 프로토타입 체인
+   2-3. [객체 전용 메서드의 예외사항](https://github.com/Bob-Buddy/core-javascript/blob/master/ch6/kimfield98/241110.md)<br/>
+   2-4. [다중 프로토타입 체인](https://github.com/Bob-Buddy/core-javascript/blob/master/ch6/kimfield98/241110.md)
 
 <br/>
 
