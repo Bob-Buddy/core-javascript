@@ -2,7 +2,7 @@
 
 ## 🗓️ 기간
 
-- 9/3(화) ~ 9/28(토) <br />
+- 9/3(화) ~ <br />
   <br/>
 
 ## 🍚 멤버
@@ -69,8 +69,8 @@
 1. 클로저의 의미 및 원리 이해<br/>
 2. 클로저의 메모리 관리<br/>
 3. 클로저 활용 사례<br/>
-   3-1. 콜백 함수 내부에서 외부 데이터를 사용하고자 할 때<br/>
-   3-2. 접근 권한 제어(정보 은닉)<br/>
+   3-1. [콜백 함수 내부에서 외부 데이터를 사용하고자 할 때](https://github.com/Bob-Buddy/core-javascript/blob/master/ch5/tsihnavy99/241020.md)<br/>
+   3-2. [접근 권한 제어(정보 은닉)](https://github.com/Bob-Buddy/core-javascript/blob/master/ch5/tsihnavy99/241020.md)<br/>
    3-3. 부분 적용 함수<br/>
    3-4. 커링 함수
 
