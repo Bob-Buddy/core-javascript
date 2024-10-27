@@ -71,8 +71,8 @@
 3. 클로저 활용 사례<br/>
    3-1. [콜백 함수 내부에서 외부 데이터를 사용하고자 할 때](https://github.com/Bob-Buddy/core-javascript/blob/master/ch5/tsihnavy99/241020.md)<br/>
    3-2. [접근 권한 제어(정보 은닉)](https://github.com/Bob-Buddy/core-javascript/blob/master/ch5/tsihnavy99/241020.md)<br/>
-   3-3. 부분 적용 함수<br/>
-   3-4. 커링 함수
+   3-3. [부분 적용 함수](https://github.com/Bob-Buddy/core-javascript/blob/master/ch4/kimfield98/240917.md)<br/>
+   3-4. [커링 함수](https://github.com/Bob-Buddy/core-javascript/blob/master/ch4/kimfield98/240917.md)
 
 <br/>
 
