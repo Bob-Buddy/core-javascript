@@ -71,8 +71,8 @@
 3. 클로저 활용 사례<br/>
    3-1. [콜백 함수 내부에서 외부 데이터를 사용하고자 할 때](https://github.com/Bob-Buddy/core-javascript/blob/master/ch5/tsihnavy99/241020.md)<br/>
    3-2. [접근 권한 제어(정보 은닉)](https://github.com/Bob-Buddy/core-javascript/blob/master/ch5/tsihnavy99/241020.md)<br/>
-   3-3. [부분 적용 함수](https://github.com/Bob-Buddy/core-javascript/blob/master/ch4/kimfield98/240917.md)<br/>
-   3-4. [커링 함수](https://github.com/Bob-Buddy/core-javascript/blob/master/ch4/kimfield98/240917.md)
+   3-3. [부분 적용 함수](https://github.com/Bob-Buddy/core-javascript/blob/master/ch5/kimfield98/24.10.20.md)<br/>
+   3-4. [커링 함수](https://github.com/Bob-Buddy/core-javascript/blob/master/ch5/kimfield98/24.10.20.md)
 
 <br/>
 
@@ -82,8 +82,8 @@
    1-1. constructor, prototype, instance<br/>
    1-2. constructor 프로퍼티<br/>
 2. 프로토타입 체인<br/>
-   2-1. 메서드 오버라이드<br/>
-   2-2. 프로토타입 체인<br/>
+   2-1. [메서드 오버라이드](https://github.com/Bob-Buddy/core-javascript/blob/master/ch6/tsihnavy99/241103.md)<br/>
+   2-2. [프로토타입 체인](https://github.com/Bob-Buddy/core-javascript/blob/master/ch6/tsihnavy99/241103.md)<br/>
    2-3. 객체 전용 메서드의 예외사항<br/>
    2-4. 다중 프로토타입 체인
 
