@@ -30,7 +30,7 @@
 3. [LexicalEnvironment](https://github.com/Bob-Buddy/core-javascript/blob/master/ch2/steve-shim/240910.md)<br />
    3-1. [LexicalEnvironment - environmentRecord와 호이스팅](https://github.com/Bob-Buddy/core-javascript/blob/master/ch2/tsihnavy99/240910.md) <br />
    3-2. [LexicalEnvironment - 스코프, 스코프 체인, outerEnvironmentReference](https://github.com/Bob-Buddy/core-javascript/blob/master/ch2/kimfield98/240910.md)
-   
+
 <br/>
 
 ### CHAPTER03 this
@@ -66,8 +66,8 @@
 
 ### CHAPTER05 클로저
 
-1. 클로저의 의미 및 원리 이해<br/>
-2. 클로저의 메모리 관리<br/>
+1. [클로저의 의미 및 원리 이해](https://github.com/Bob-Buddy/core-javascript/blob/master/ch5/steveshim/241020.md)<br/>
+2. [클로저의 메모리 관리](https://github.com/Bob-Buddy/core-javascript/blob/master/ch5/steveshim/241020.md)<br/>
 3. 클로저 활용 사례<br/>
    3-1. [콜백 함수 내부에서 외부 데이터를 사용하고자 할 때](https://github.com/Bob-Buddy/core-javascript/blob/master/ch5/tsihnavy99/241020.md)<br/>
    3-2. [접근 권한 제어(정보 은닉)](https://github.com/Bob-Buddy/core-javascript/blob/master/ch5/tsihnavy99/241020.md)<br/>
@@ -79,8 +79,8 @@
 ### CHAPTER06 프로토타입
 
 1. 프로토타입의 개념 이해<br/>
-   1-1. constructor, prototype, instance<br/>
-   1-2. constructor 프로퍼티<br/>
+   1-1. [constructor, prototype, instance](https://github.com/Bob-Buddy/core-javascript/blob/master/ch6/steveshim/241110.md)<br/>
+   1-2. [constructor 프로퍼티](https://github.com/Bob-Buddy/core-javascript/blob/master/ch6/steveshim/241110.md)<br/>
 2. 프로토타입 체인<br/>
    2-1. [메서드 오버라이드](https://github.com/Bob-Buddy/core-javascript/blob/master/ch6/tsihnavy99/241103.md)<br/>
    2-2. [프로토타입 체인](https://github.com/Bob-Buddy/core-javascript/blob/master/ch6/tsihnavy99/241103.md)<br/>
@@ -91,8 +91,8 @@
 
 ### CHAPTER07 클래스
 
-1. 클래스와 인스턴스의 개념 이해<br/>
-2. 자바스크립트의 클래스<br/>
+1. [클래스와 인스턴스의 개념 이해](https://github.com/Bob-Buddy/core-javascript/blob/master/ch7/steveshim/241110.md)<br/>
+2. [자바스크립트의 클래스](https://github.com/Bob-Buddy/core-javascript/blob/master/ch7/steveshim/241110.md)<br/>
 3. 클래스 상속<br/>
    3-1. 기본 구현<br/>
    3-2. 클래스가 구체적인 데이터를 지니지 않게 하는 방법<br/>
