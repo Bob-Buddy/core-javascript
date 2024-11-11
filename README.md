@@ -94,8 +94,8 @@
 1. [클래스와 인스턴스의 개념 이해](https://github.com/Bob-Buddy/core-javascript/blob/master/ch7/steveshim/241110.md)<br/>
 2. [자바스크립트의 클래스](https://github.com/Bob-Buddy/core-javascript/blob/master/ch7/steveshim/241110.md)<br/>
 3. 클래스 상속<br/>
-   3-1. 기본 구현<br/>
-   3-2. 클래스가 구체적인 데이터를 지니지 않게 하는 방법<br/>
+   3-1. [기본 구현](https://github.com/Bob-Buddy/core-javascript/blob/master/ch7/tsihnavy99/241110.md)<br/>
+   3-2. [클래스가 구체적인 데이터를 지니지 않게 하는 방법](https://github.com/Bob-Buddy/core-javascript/blob/master/ch7/tsihnavy99/241110.md)<br/>
    3-3. [constructor 복구하기](https://github.com/Bob-Buddy/core-javascript/blob/master/ch7/kimfield98/241110.md)<br/>
    3-4. [상위 클래스에서의 접근 수단 제공](https://github.com/Bob-Buddy/core-javascript/blob/master/ch7/kimfield98/241110.md)<br/>
 4. [ES6의 클래스 및 클래스 상속](https://github.com/Bob-Buddy/core-javascript/blob/master/ch7/kimfield98/241110.md)
